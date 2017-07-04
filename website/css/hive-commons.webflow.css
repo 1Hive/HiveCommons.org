@@ -1,0 +1,28 @@
+.text-block {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'Open Sans', sans-serif;
+  color: #382412;
+  font-size: 60px;
+  text-align: center;
+}
+
+.social {
+  padding-top: 54px;
+  text-align: center;
+}
+
+.sociaicon {
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.navbar {
+  background-color: #fff;
+}
+
+@media (max-width: 991px) {
+  .text-block {
+    line-height: 60px;
+  }
+}
